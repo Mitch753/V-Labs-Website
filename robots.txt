@@ -1,4 +1,4 @@
-Sitemap: https://mitch753.github.io/V-Labs-Website/sitemap_index.xml
+﻿Sitemap: https://www.v-labs.ch/sitemap_index.xml
 
 User-agent: *
 Disallow:
