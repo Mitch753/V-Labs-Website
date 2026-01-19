@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.v-labs.ch/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/team/michel-curina/</loc>
+		<loc>https://www.v-labs.ch/team/michel-curina/</loc>
 		<lastmod>2023-12-01T16:38:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Michele_outside_square_600px.svg</image:loc>
+			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/Michele_outside_square_600px.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/diemer-cohen-stuart/</loc>
+		<loc>https://www.v-labs.ch/team/diemer-cohen-stuart/</loc>
 		<lastmod>2023-12-01T16:39:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Diemer_outside_square_600px-1.svg</image:loc>
+			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/Diemer_outside_square_600px-1.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/armand-lumens/</loc>
+		<loc>https://www.v-labs.ch/team/armand-lumens/</loc>
 		<lastmod>2023-12-04T12:30:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Photo-Armand.jpg</image:loc>
+			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/Photo-Armand.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/anders-thostrup/</loc>
+		<loc>https://www.v-labs.ch/team/anders-thostrup/</loc>
 		<lastmod>2023-12-18T15:36:30+00:00</lastmod>
 	</url>
 </urlset>
