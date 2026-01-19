@@ -206,13 +206,13 @@
 }
 
 .cookiebot-cbid-check.check-progress {
-    background-image: url(/wp-content/plugins/cookiebot/assets/img/icons/loader.svg);
+    background-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/loader.svg);
 
 }
 
 .cookiebot-cbid-check.check-pass {
     background-color: #076646;
-    background-image: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    background-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
     border-radius: 50%;
     background-size: auto;
     background-position: center;

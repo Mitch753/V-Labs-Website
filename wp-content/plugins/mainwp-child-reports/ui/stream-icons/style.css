@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'WP Stream';
-	src:url('/wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.eot');
-	src:url('/wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.ttf') format('truetype'),
-		url('/wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.woff') format('woff'),
-		url('/wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.svg#icomoon') format('svg');
+	src:url('../../../wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.eot');
+	src:url('../../../wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.eot#iefix') format('embedded-opentype'),
+		url('../../../wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.ttf') format('truetype'),
+		url('../../../wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.woff') format('woff'),
+		url('../../../wp-content/plugins/mainwp-child-reports/ui/stream-icons/font/stream.svg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

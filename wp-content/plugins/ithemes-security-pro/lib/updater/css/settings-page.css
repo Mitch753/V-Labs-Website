@@ -514,7 +514,7 @@ table.widefat {
 	padding: 1.7rem 1.25rem;
 	border-radius: 0.25rem;
 	background-color: #232323;
-	background-image: url("/wp-content/plugins/ithemes-security-pro/lib/updater/images/sunset-background.png");
+	background-image: url("../../../wp-content/plugins/ithemes-security-pro/lib/updater/images/sunset-background.png");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }

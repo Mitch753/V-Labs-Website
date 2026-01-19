@@ -1,110 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.v-labs.ch/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.v-labs.ch/recource/deutsche-bahn-field-test/</loc>
+		<loc>./recource/deutsche-bahn-field-test/</loc>
 		<lastmod>2023-12-04T15:15:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/DB-Fieldtest-2-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/DB-Fieldtest-2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/v-labs-wins-venture-kick-stage-2/</loc>
+		<loc>./recource/v-labs-wins-venture-kick-stage-2/</loc>
 		<lastmod>2023-12-04T15:15:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2021/09/VENTUREKICK_logo_1200x800px.png</image:loc>
+			<image:loc>./wp-content/uploads/2021/09/VENTUREKICK_logo_1200x800px.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/esa-bic/</loc>
+		<loc>./recource/esa-bic/</loc>
 		<lastmod>2023-12-04T15:19:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/12/ESA-BIC_logo_1200x800px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/12/ESA-BIC_logo_1200x800px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/mygalileosolutions/</loc>
+		<loc>./recource/mygalileosolutions/</loc>
 		<lastmod>2023-12-04T15:37:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/12/gsa_logo_1200x800px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/12/gsa_logo_1200x800px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/fuel-for-growth/</loc>
+		<loc>./recource/fuel-for-growth/</loc>
 		<lastmod>2023-12-04T15:52:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2020/03/V-Labs-Logo-2021_1200x800px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2020/03/V-Labs-Logo-2021_1200x800px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/romande-energie/</loc>
+		<loc>./recource/romande-energie/</loc>
 		<lastmod>2023-12-04T19:51:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/12/Romande_Energie_Logo_721x600px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/12/Romande_Energie_Logo_721x600px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/deutsche-bahn/</loc>
+		<loc>./recource/deutsche-bahn/</loc>
 		<lastmod>2023-12-04T21:13:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/12/DB-bahn_logo_1200x800px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/12/DB-bahn_logo_1200x800px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/heijmans/</loc>
+		<loc>./recource/heijmans/</loc>
 		<lastmod>2023-12-05T19:58:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2021/07/Heijmans-AR-GIS-and-BIM-data_2_news.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/07/Heijmans-AR-GIS-and-BIM-data_2_news.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/augmented-reality-for-railway-construction/</loc>
+		<loc>./recource/augmented-reality-for-railway-construction/</loc>
 		<lastmod>2023-12-07T12:35:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/IMG_4319-scaled-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/IMG_4319-scaled-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/db-mindbox/</loc>
+		<loc>./recource/db-mindbox/</loc>
 		<lastmod>2023-12-07T13:30:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2020/09/DB_mindbox_logo_790x600px.png</image:loc>
+			<image:loc>./wp-content/uploads/2020/09/DB_mindbox_logo_790x600px.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/verband-schweizerischer-elektrizitatsunternehmen-vse-aes/</loc>
+		<loc>./recource/verband-schweizerischer-elektrizitatsunternehmen-vse-aes/</loc>
 		<lastmod>2023-12-07T13:35:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2019/05/Logo-VSE-AES_big.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2019/05/Logo-VSE-AES_big.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/esri-imgis/</loc>
+		<loc>./recource/esri-imgis/</loc>
 		<lastmod>2024-01-07T18:52:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/v-labs-in-canada/</loc>
+		<loc>./recource/v-labs-in-canada/</loc>
 		<lastmod>2024-01-10T10:43:38+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2024/01/Hydro_Quebec_1280x1280px.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2024/01/Hydro_Quebec_1280x1280px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/free-electrons/</loc>
+		<loc>./recource/free-electrons/</loc>
 		<lastmod>2024-01-15T07:55:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/rising-star-euspa/</loc>
+		<loc>./recource/rising-star-euspa/</loc>
 		<lastmod>2024-03-14T14:03:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.v-labs.ch/wp-content/uploads/2023/10/IMG_4781-scaled-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/IMG_4781-scaled-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/implenia-uses-ar-to-optimize-grid-tracing/</loc>
+		<loc>./recource/implenia-uses-ar-to-optimize-grid-tracing/</loc>
 		<lastmod>2024-04-09T17:31:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.v-labs.ch/recource/tennet-optimizes-field-operations/</loc>
+		<loc>./recource/tennet-optimizes-field-operations/</loc>
 		<lastmod>2024-04-09T17:58:17+00:00</lastmod>
 	</url>
 </urlset>

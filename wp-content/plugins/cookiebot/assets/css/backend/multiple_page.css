@@ -59,7 +59,7 @@
 }
 
 .cb-region__region__selector:after {
-    content: url(/wp-content/plugins/cookiebot/assets/img/icons/down.svg);
+    content: url(../../../wp-content/plugins/cookiebot/assets/img/icons/down.svg);
     position: absolute;
     top: 7px;
     right: 12px;
@@ -138,8 +138,8 @@
     mask-repeat: no-repeat;
     -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
 }
 
 .cb-region__veil {

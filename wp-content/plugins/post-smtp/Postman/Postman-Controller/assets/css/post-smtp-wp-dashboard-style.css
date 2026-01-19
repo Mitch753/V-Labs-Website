@@ -544,13 +544,13 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: url(/wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/wp-spinner.gif) no-repeat center calc(50% - 12px);
+    background: url(../../../wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/wp-spinner.gif) no-repeat center calc(50% - 12px);
     background-color: #fff;
     z-index: 10
 }
 
 .post-smtp-dash-widget i.post-smtp-dash-widget-loader {
-    background-image: url(/wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/wp-spinner.gif);
+    background-image: url(../../../wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/wp-spinner.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
@@ -708,7 +708,7 @@
     margin-right: 10px;
     width: 16px;
     height: 16px;
-    background-image: url("/wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/dash-widget/yes-green.svg")
+    background-image: url("../../../wp-content/plugins/post-smtp/Postman/Postman-Controller/assets/images/dash-widget/yes-green.svg")
 }
 
 #post_smtp_reports_widget_lite .post-smtp-dash-widget-upgrade-footer {

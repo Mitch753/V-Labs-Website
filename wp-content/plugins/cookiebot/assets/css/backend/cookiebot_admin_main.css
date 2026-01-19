@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Inter';
-    src: url('/wp-content/plugins/cookiebot/assets/fonts/Inter-VariableFont.woff2') format('woff2-variations');
+    src: url('../../../wp-content/plugins/cookiebot/assets/fonts/Inter-VariableFont.woff2') format('woff2-variations');
     font-weight: 300 900;
     font-stretch: 100%;
     font-style: normal;
@@ -93,33 +93,33 @@
 }
 
 .dashboard-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/dashboard.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/dashboard.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/dashboard.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/dashboard.svg);
 }
 
 .customize-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/customize.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/customize.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/customize.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/customize.svg);
 }
 
 .settings-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/settings.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/settings.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/settings.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/settings.svg);
 }
 
 .plugins-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/plugins.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/plugins.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/plugins.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/plugins.svg);
 }
 
 .support-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/support.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/support.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/support.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/support.svg);
 }
 
 .debug-icon {
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/debug.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/debug.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/debug.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/debug.svg);
 }
 
 .cb-main__page_title {
@@ -346,7 +346,7 @@ textarea {
 }
 
 .cb-submit__msg:before {
-    content: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    content: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
     position: absolute;
     left: 30px;
     top: 25px;
@@ -382,7 +382,7 @@ textarea {
 }
 
 .cb-settings__selector__container .cb-settings__selector-selector:after {
-    content: url(/wp-content/plugins/cookiebot/assets/img/icons/down.svg);
+    content: url(../../../wp-content/plugins/cookiebot/assets/img/icons/down.svg);
     position: absolute;
     top: 7px;
     right: 12px;
@@ -460,8 +460,8 @@ textarea {
     mask-repeat: no-repeat;
     -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/icons/check.svg);
 }
 
 .trial-banner {
@@ -488,8 +488,8 @@ textarea {
     width: 1.875rem;
     height: 1.875rem;
     background-color: white;
-    -webkit-mask-image: url(/wp-content/plugins/cookiebot/assets/img/timer.svg);
-    mask-image: url(/wp-content/plugins/cookiebot/assets/img/timer.svg);
+    -webkit-mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/timer.svg);
+    mask-image: url(../../../wp-content/plugins/cookiebot/assets/img/timer.svg);
     -webkit-mask-size: contain;
     mask-size: contain;
     -webkit-mask-repeat: no-repeat;

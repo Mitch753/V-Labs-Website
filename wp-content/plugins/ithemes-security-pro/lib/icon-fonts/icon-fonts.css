@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ithemes-icons';
-	src:url('/wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.eot');
-	src:url('/wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.woff') format('woff'),
-		url('/wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.ttf') format('truetype'),
-		url('/wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.svg#ithemes-icons') format('svg');
+	src:url('../../../wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.eot');
+	src:url('../../../wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.eot#iefix') format('embedded-opentype'),
+		url('../../../wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.woff') format('woff'),
+		url('../../../wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.ttf') format('truetype'),
+		url('../../../wp-content/plugins/ithemes-security-pro/lib/icon-fonts/fonts/ithemes-icons.svg#ithemes-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

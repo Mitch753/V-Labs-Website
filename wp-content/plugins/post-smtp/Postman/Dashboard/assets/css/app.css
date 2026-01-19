@@ -244,19 +244,19 @@
 	padding: 24px;
 }
 .troubleshoot.email[data-v-5fd607f9] {
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/57f4451f3be03da17463.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/57f4451f3be03da17463.svg) inside;
 }
 .troubleshoot.import-export[data-v-5fd607f9] {
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/d0a8e6270627cef66c74.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/d0a8e6270627cef66c74.svg) inside;
 }
 .troubleshoot.connectivity[data-v-5fd607f9] {
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/5b76dc43e6c63f11fb6d.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/5b76dc43e6c63f11fb6d.svg) inside;
 }
 .troubleshoot.diagnostic[data-v-5fd607f9] {
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/258d1cba1f474caf0c4b.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/258d1cba1f474caf0c4b.svg) inside;
 }
 .troubleshoot.reset[data-v-5fd607f9] {
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/9fdeee5472f16554c9e9.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/9fdeee5472f16554c9e9.svg) inside;
 }
 .troubleshoot a[data-v-5fd607f9] {
 	font-family: Poppins;
@@ -329,7 +329,7 @@
 	text-align: left;
 	color: #646464;
 	margin-top: 10px;
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/2eb9c91de5efa416e660.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/2eb9c91de5efa416e660.svg) inside;
 }
 .img-wrapper[data-v-2975379f] {
 	margin-top: 7px;
@@ -349,7 +349,7 @@
 .post-smtp-main-wp-wrapper[data-v-2975379f] {
 	border-radius: 4px;
 	border: 1px solid #DCDFE5;
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/b5d4a4bc5f5d5c2cc5ec.png), linear-gradient(180deg, #FFF 0%, #EDF2FE 100%);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/b5d4a4bc5f5d5c2cc5ec.png), linear-gradient(180deg, #FFF 0%, #EDF2FE 100%);
 	padding: 24px 24px;
 	background-position: right bottom;
 	background-repeat: no-repeat;
@@ -365,7 +365,7 @@
 	font-weight: 500;
 	line-height: 13.75px; /* 13.75px */
 
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/9fd2c918204f11be1da3.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/9fd2c918204f11be1da3.svg) inside;
 }
 .main-wp-footer a[data-v-2975379f] {
 	display: inline-flex;
@@ -388,7 +388,7 @@
 .post-smtp-spam-score-wrapper[data-v-2975379f] {
 	border-radius: 4px;
 	border: 1px solid #DCDFE5;
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/27b2ae161d3d48de6aa4.png), linear-gradient(180deg, #FFF 0%, #EDF2FE 100%);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/27b2ae161d3d48de6aa4.png), linear-gradient(180deg, #FFF 0%, #EDF2FE 100%);
 	background-repeat: no-repeat;
 	background-position: top right;
 	padding: 20px 25px;
@@ -435,7 +435,7 @@
 	font-weight: 500;
 	line-height: 13.75px;
 
-	list-style: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/ff6653d27332dc8ab22a.svg) inside;
+	list-style: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/ff6653d27332dc8ab22a.svg) inside;
 }
 
 
@@ -607,7 +607,7 @@
 	border: 1px solid #EBD3D3;
 }
 .post-smtp-card-opened--pro[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/2b70fc947e7d243045cc.svg), radial-gradient(95.39% 99.9% at 49.79% 0%, #FFD291 0%, #F9AA39 100%);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/2b70fc947e7d243045cc.svg), radial-gradient(95.39% 99.9% at 49.79% 0%, #FFD291 0%, #F9AA39 100%);
 	border: 1px solid #EBE1D3;
 	background-repeat: no-repeat;
 	background-position: 275px 10px, center;
@@ -634,43 +634,43 @@
 	border-radius: 50%;
 }
 .post-smtp-card-all .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/5228f6e3f64c7ce0d516.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/5228f6e3f64c7ce0d516.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-success .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/33faa49fa2c81c425660.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/33faa49fa2c81c425660.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-failed .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/080727baa513e48c626e.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/080727baa513e48c626e.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-opened--pro .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/1f30527ba4ffa819f296.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/1f30527ba4ffa819f296.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-pro.post-smtp-card-all .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/acc721b33f3d1b7d3795.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/acc721b33f3d1b7d3795.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-pro.post-smtp-card-success .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/0762235fe75fa43063e7.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/0762235fe75fa43063e7.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 .post-smtp-card-pro.post-smtp-card-failed .post-smtp-image-container[data-v-3753d82c] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/1c7dc8d09d20ecab18fb.png);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/1c7dc8d09d20ecab18fb.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -1079,7 +1079,7 @@
 .pro-features[data-v-670574d9] {
 	position: relative;
 	height: 397px;
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/1d1ed72328324fa15873.png), url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/bd29e69106d31e4a6f1f.png), url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/db67b70d37a34f75ab17.png), linear-gradient(180deg, #375CAF 0%, #2C4A8C 100%);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/1d1ed72328324fa15873.png), url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/bd29e69106d31e4a6f1f.png), url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/db67b70d37a34f75ab17.png), linear-gradient(180deg, #375CAF 0%, #2C4A8C 100%);
 	background-repeat: no-repeat;
 	background-position: left bottom, right bottom, 0 0, 0 0;
 	background-size: auto, auto, cover, cover;
@@ -1128,7 +1128,7 @@
 .create-container[data-v-670574d9] {
 	width: 56px;
 	height: 56px;
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/86fe1bec08f081521e92.svg);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/86fe1bec08f081521e92.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -1175,7 +1175,7 @@
 	margin-right: 10px;
 }
 .bcfm[data-v-670574d9] {
-	background: url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/e2f9e8c4d311f9c91473.png), url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/1d1ed72328324fa15873.png), url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/bd29e69106d31e4a6f1f.png), url(/wp-content/plugins/post-smtp/Postman/Dashboard/assets/db67b70d37a34f75ab17.png), linear-gradient(180deg, #375CAF 0%, #2C4A8C 100%);
+	background: url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/e2f9e8c4d311f9c91473.png), url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/1d1ed72328324fa15873.png), url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/bd29e69106d31e4a6f1f.png), url(../../../wp-content/plugins/post-smtp/Postman/Dashboard/assets/db67b70d37a34f75ab17.png), linear-gradient(180deg, #375CAF 0%, #2C4A8C 100%);
 	background-repeat: no-repeat;
 	background-position: top right, left bottom, right bottom, 0 0, 0 0;
 	background-size: auto, auto, auto, cover, cover;

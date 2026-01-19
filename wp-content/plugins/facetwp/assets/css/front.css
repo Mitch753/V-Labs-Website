@@ -44,7 +44,7 @@
 }
 
 .facetwp-checkbox {
-    background: url('/wp-content/plugins/facetwp/assets/images/checkbox.png') 0 50% no-repeat;
+    background: url('../../../wp-content/plugins/facetwp/assets/images/checkbox.png') 0 50% no-repeat;
     background-size: 14px 14px;
     margin-bottom: 4px;
     padding-left: 20px;
@@ -52,7 +52,7 @@
 }
 
 .facetwp-checkbox.checked {
-    background-image: url('/wp-content/plugins/facetwp/assets/images/checkbox-on.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/checkbox-on.png');
 }
 
 .facetwp-checkbox.disabled,
@@ -72,7 +72,7 @@
 /* Radio */
 
 .facetwp-radio {
-    background: url('/wp-content/plugins/facetwp/assets/images/radio.png') 0 50% no-repeat;
+    background: url('../../../wp-content/plugins/facetwp/assets/images/radio.png') 0 50% no-repeat;
     background-size: 14px 14px;
     margin-bottom: 4px;
     padding-left: 20px;
@@ -80,7 +80,7 @@
 }
 
 .facetwp-radio.checked {
-    background-image: url('/wp-content/plugins/facetwp/assets/images/radio-on.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/radio-on.png');
 }
 
 /* fSelect */
@@ -208,7 +208,7 @@
     content: '';
     width: 30px;
     height: 100%;
-    background: url('/wp-content/plugins/facetwp/assets/images/icon-search.png') no-repeat;
+    background: url('../../../wp-content/plugins/facetwp/assets/images/icon-search.png') no-repeat;
     background-position: 5px 50%;
     background-size: 20px 20px;
 }
@@ -249,15 +249,15 @@
 }
 
 .facetwp-icon.locate-me:before {
-    background-image: url('/wp-content/plugins/facetwp/assets/images/icon-locate.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/icon-locate.png');
 }
 
 .facetwp-icon.f-reset:before {
-    background-image: url('/wp-content/plugins/facetwp/assets/images/icon-close.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/icon-close.png');
 }
 
 .facetwp-icon.f-loading:before {
-    background-image: url('/wp-content/plugins/facetwp/assets/images/loading.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/loading.png');
     animation: spin 700ms infinite linear;
 }
 
@@ -268,7 +268,7 @@
 
 .powered-by-google {
     height: 15px;
-    background: url('/wp-content/plugins/facetwp/assets/images/powered-by-google.png') top right no-repeat;
+    background: url('../../../wp-content/plugins/facetwp/assets/images/powered-by-google.png') top right no-repeat;
     background-size: auto 15px;
 }
 
@@ -338,7 +338,7 @@
     cursor: pointer;
 
     padding-right: 16px;
-    background-image: url('/wp-content/plugins/facetwp/assets/images/icon-close.png');
+    background-image: url('../../../wp-content/plugins/facetwp/assets/images/icon-close.png');
     background-size: 12px 12px;
     background-repeat: no-repeat;
     background-position: right center;

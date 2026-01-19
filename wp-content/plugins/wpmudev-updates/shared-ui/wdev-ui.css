@@ -293,7 +293,7 @@
 .wpmud .loading.disabled:before,
 .wpmud .loading:before {
 	content: '';
-	background: transparent url(/wp-content/plugins/wpmudev-updates/shared-ui/img/spin.gif) center center no-repeat;
+	background: transparent url(../../../wp-content/plugins/wpmudev-updates/shared-ui/img/spin.gif) center center no-repeat;
 	background-size: contain;
 	display: inline-block;
 	width: 18px;
@@ -2017,7 +2017,7 @@
 	line-height: 40px;
 	color: #DDD;
 	cursor: pointer;
-	background: transparent url(/wp-content/plugins/wpmudev-updates/shared-ui/img/spin.gif) 500px 500px no-repeat;
+	background: transparent url(../../../wp-content/plugins/wpmudev-updates/shared-ui/img/spin.gif) 500px 500px no-repeat;
 	background-size: 16px;
 	transition-property: color;
 	transition-duration: 0.3s;
@@ -2294,12 +2294,12 @@
  */
 @font-face {
     font-family: 'FontAwesomeWdv';
-    src: url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.eot');
-    src: url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.eot#iefix') format('embedded-opentype'),
-        url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.woff') format('woff'),
-        url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.ttf') format('truetype'),
-        url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.svgz#FontAwesomeRegular') format('svg'),
-        url('/wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.svg#FontAwesomeRegular') format('svg');
+    src: url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.eot');
+    src: url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.eot#iefix') format('embedded-opentype'),
+        url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.woff') format('woff'),
+        url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.ttf') format('truetype'),
+        url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.svgz#FontAwesomeRegular') format('svg'),
+        url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/fontawesome-webfont.svg#FontAwesomeRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -2310,11 +2310,11 @@
  */
 @font-face {
 	font-family: 'WPMU-DEV-App-Icons';
-	src:url('/wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.eot?yhrhds');
-	src:url('/wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.eot#iefixyhrhds') format('embedded-opentype'),
-		url('/wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.ttf?yhrhds') format('truetype'),
-		url('/wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.woff?yhrhds') format('woff'),
-		url('/wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.svg?yhrhds#WPMU-DEV-App-Icons') format('svg');
+	src:url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.eot?yhrhds');
+	src:url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.eot#iefixyhrhds') format('embedded-opentype'),
+		url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.ttf?yhrhds') format('truetype'),
+		url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.woff?yhrhds') format('woff'),
+		url('../../../wp-content/plugins/wpmudev-updates/shared-ui/font/WPMU-DEV-App-Icons.svg?yhrhds#WPMU-DEV-App-Icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

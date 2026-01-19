@@ -152,7 +152,7 @@
     width: 410px;
     height: 450px;
     border-radius: 8px;
-    background: url("/wp-content/plugins/post-smtp/Postman/Postman-Suggest-Pro/assets/images/popup-background.png"), linear-gradient(185.38deg, #3F8CD8 -34.52%, #0E2134 104.9%);
+    background: url("../../../wp-content/plugins/post-smtp/Postman/Postman-Suggest-Pro/assets/images/popup-background.png"), linear-gradient(185.38deg, #3F8CD8 -34.52%, #0E2134 104.9%);
     background-position: bottom right;
     background-repeat: no-repeat;
     position: relative;

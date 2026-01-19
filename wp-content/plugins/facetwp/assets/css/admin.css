@@ -75,7 +75,7 @@ a:hover {
 
 .facetwp-logo {
     line-height: 20px;
-    background: url('/wp-content/plugins/facetwp/assets/images/logo.svg?v=4.2') no-repeat;
+    background: url('../../../wp-content/plugins/facetwp/assets/images/logo.svg?v=4.2') no-repeat;
     background-size: contain;
     display: inline-block;
     width: 26px;

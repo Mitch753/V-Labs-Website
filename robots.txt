@@ -1,9 +1,6 @@
-Sitemap: https://www.v-labs.ch/sitemap_index.xml
-# START YOAST BLOCK
-# ---------------------------
+# Update the URL below with your GitHub Pages URL
+# e.g., https://username.github.io/repo-name/sitemap_index.xml
+Sitemap: sitemap_index.xml
+
 User-agent: *
 Disallow:
-
-Sitemap: https://www.v-labs.ch/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

@@ -50,15 +50,15 @@
 }
 
 .cookiebot-notice-logo {
-    background-image: url("/wp-content/plugins/cookiebot/assets/img/icon.svg");
+    background-image: url("../../../wp-content/plugins/cookiebot/assets/img/icon.svg");
 }
 
 .cookiebot-notice-review {
-    background-image: url("/wp-content/plugins/cookiebot/assets/img/icons/rating.png");
+    background-image: url("../../../wp-content/plugins/cookiebot/assets/img/icons/rating.png");
 }
 
 .cookiebot-notice-bf {
-    background-image: url("/wp-content/plugins/cookiebot/assets/img/icons/cb-bf-notice.svg");
+    background-image: url("../../../wp-content/plugins/cookiebot/assets/img/icons/cb-bf-notice.svg");
 }
 
 .cb-bf-links a.cb-btn{
