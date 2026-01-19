@@ -1,6 +1,4 @@
-# Update the URL below with your GitHub Pages URL
-# e.g., https://username.github.io/repo-name/sitemap_index.xml
-Sitemap: sitemap_index.xml
+Sitemap: https://mitch753.github.io/V-Labs-Website/sitemap_index.xml
 
 User-agent: *
 Disallow:
